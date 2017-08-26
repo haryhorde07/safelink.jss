@@ -1,0 +1,2 @@
+# safelink.jss
+file.js
